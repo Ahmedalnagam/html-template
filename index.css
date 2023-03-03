@@ -141,7 +141,7 @@ ul{
 } 
 .landing {
     background-color: black;
-    background-image: url(../../../pictures/prithiviraj-a-MNusjCsoiRQ-unsplash.jpg);
+    background-image: url(pictures/prithiviraj-a-MNusjCsoiRQ-unsplash.jpg);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -240,7 +240,7 @@ ul{
 /* end services */
 /* start design  */
 .design {
-    background-image: url(../../../pictures/zane-lee-LDhfoQkRn1c-unsplash.jpg);
+    background-image: url(pictures/zane-lee-LDhfoQkRn1c-unsplash.jpg);
     background-size: cover;
     display: flex;
     flex-direction: row;
@@ -361,7 +361,7 @@ ul{
 /* end us */
 /* statistic */
 .statistic {
-  background-image: url(../../../pictures/pexels-pixabay-358457.jpg);
+  background-image: url(pictures/pexels-pixabay-358457.jpg);
   background-size: cover;
   text-align: center;
   color: white;
@@ -745,7 +745,7 @@ ul{
 footer {
  padding-top: 50px;
  padding-bottom: 50px;
- background-image:url(../../../pictures/pexels-pixabay-358457.jpg) ;
+ background-image:url(pictures/pexels-pixabay-358457.jpg) ;
  background-size: cover;
  text-align: center;
  position: relative;
